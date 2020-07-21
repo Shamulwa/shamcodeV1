@@ -27,11 +27,10 @@ title: Sham Code
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description: >
-  Hydejack is a boutique Jekyll theme for hackers, nerds, and academics,
-  with a focus on personal sites that are meant to impress.
+  This is the official website for the sham code YouTube channel. Subscribe for more
 
 # A shorter description for the sidebar.
-tagline: For the tech suvvy
+tagline: For the tech-suvvy
 
 # A list of keywords for your blog
 keywords: []
